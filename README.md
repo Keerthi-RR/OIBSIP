@@ -53,27 +53,28 @@ OIBSIP/
 │
 ├── README.md
 │
+├── DataAnalytics-L1-CustomerSegmentation/
+│   ├── Customer_Segmentation.ipynb
+│   ├── README.md
+│   └── online_retail_II.zip
+│
 ├── DataAnalytics-L1-EDARetailSales/
 │   ├── README.md
 │   ├── Retail_Sales_EDA.ipynb
 │   └── retail_sales_dataset.csv
 │
-├── DataAnalytics-L1-CustomerSegmentation/
-│   ├── README.md
-│   ├── Customer_Segmentation.ipynb
-│   └── online_retail_II dataset
-│
 ├── DataAnalytics-L2-HousePricePrediction/
-│   ├── README.md
 │   ├── House_Price_Prediction.ipynb
+│   ├── README.md
 │   └── train.csv
 │
 └── DataAnalytics-L2-WineQualityPrediction/
     ├── README.md
-    ├── Level_2_Task_2_Wine_Quality_Prediction.ipynb
+    ├── Wine Quality Prediction.ipynb
+    ├── wine quality_model.pkl
+    ├── wine quality_predictions.csv
     └── winequality-red.csv
 ```
-
 ## Key Learning Outcomes
 
 Through these projects, I gained practical experience in:
