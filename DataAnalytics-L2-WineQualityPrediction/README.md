@@ -162,7 +162,7 @@ The project provided practical experience in data preprocessing, classification,
 
 ## Project File
 
-`Level_2_Task_2_Wine_Quality_Prediction.ipynb`
+`Wine Quality Prediction.ipynb`
 
 ## Internship
 
